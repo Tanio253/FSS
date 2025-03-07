@@ -3,6 +3,9 @@ from pathlib import Path
 from llama_index.readers.file import PyMuPDFReader
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from VectorStore.VectorStore3B import VectorStore3B
 from llama_index.core import VectorStoreIndex
 from llama_index.retrievers.bm25 import BM25Retriever
@@ -142,6 +145,6 @@ for i, query in enumerate(sample_queries):
     with cols[col_idx]:
         if st.button(query, key=f"main_sample_{i}"):
             st.session_state.query = query
-            
+
 if __name__ == "__main__":
     pass
