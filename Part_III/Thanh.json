@@ -1,0 +1,2484 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa saja makanan yang disajikan di restoran ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran kami menyajikan berbagai makanan lezat, salah satunya adalah hamburger, makanan ikonik yang menggugah selera."
+      },
+      {
+        "role": "user",
+        "content": "Bisakah Anda menjelaskan apa itu hamburger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hamburger adalah sandwich yang terdiri dari patty daging sapi cincang yang juicy, dipanggang atau digoreng hingga sempurna, dan disajikan di antara dua roti lembut. Biasanya ditambahkan selada segar, tomat, bawang, acar, keju, serta berbagai saus seperti saus tomat, mustard, dan mayones."
+      },
+      {
+        "role": "user",
+        "content": "Berapa harga satu hamburger di restoran ini?"
+      },
+      {
+        "role": "assistant",
+        "content": "Harga satu hamburger di restoran kami adalah $4.99."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana sejarah hamburger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Asal-usul hamburger berasal dari kota Hamburg, Jerman, di mana steak cincang sangat populer pada abad ke-19. Imigran Jerman membawa hidangan ini ke Amerika Serikat, yang kemudian berkembang menjadi hamburger modern. Hamburger gaya Amerika pertama diyakini muncul pada akhir 1800-an dan menjadi terkenal di Pameran Dunia St. Louis tahun 1904. Seiring waktu, restoran cepat saji seperti McDonald's dan Burger King membantu mempopulerkannya di seluruh dunia."
+      },
+      {
+        "role": "user",
+        "content": "Bagaimana cara membuat hamburger yang sempurna?"
+      },
+      {
+        "role": "assistant",
+        "content": "Untuk membuat hamburger yang sempurna, siapkan bahan seperti daging sapi cincang, roti hamburger, keju, sayuran, dan saus. Bentuk patty daging dan bumbui dengan garam serta lada. Masak patty dengan metode panggang atau pan-fry hingga matang. Panggang roti hingga keemasan, lalu rakit burger dengan menambahkan patty, sayuran, dan saus favorit Anda. Sajikan dengan kentang goreng atau minuman segar!"
+      }
+    ]
+  },
+
+{
+"messages": [
+    {
+    "role": "user",
+    "content": "Apa salah satu makanan favorit di restoran ini?"
+    },
+    {
+    "role": "assistant",
+    "content": "Salah satu makanan favorit di restoran kami adalah pizza, hidangan lezat yang dipanggang dalam oven dengan berbagai topping menggugah selera."
+    },
+    {
+    "role": "user",
+    "content": "Bisakah Anda menjelaskan apa itu pizza?"
+    },
+    {
+    "role": "assistant",
+    "content": "Pizza adalah hidangan panggang yang terdiri dari adonan tipis atau tebal, diberi saus tomat yang kaya rasa, keju leleh, dan berbagai topping seperti pepperoni, jamur, zaitun, serta sayuran. Teksturnya bisa renyah atau lembut, dan selalu memberikan rasa nyaman dalam setiap gigitan."
+    },
+    {
+    "role": "user",
+    "content": "Berapa harga satu pizza di restoran ini?"
+    },
+    {
+    "role": "assistant",
+    "content": "Harga satu pizza di restoran kami adalah $19.99."
+    },
+    {
+    "role": "user",
+    "content": "Bagaimana sejarah pizza?"
+    },
+    {
+    "role": "assistant",
+    "content": "Pizza memiliki sejarah panjang sejak peradaban kuno di Yunani, Mesir, dan Romawi, di mana roti pipih dengan berbagai topping sudah populer. Namun, pizza modern berasal dari Napoli, Italia, pada akhir abad ke-18. Pizza Margherita, yang diciptakan pada tahun 1889, terinspirasi oleh warna bendera Italia—merah dari saus tomat, putih dari keju mozzarella, dan hijau dari daun basil. Imigran Italia kemudian membawa pizza ke Amerika Serikat, dan sejak itu, berbagai gaya pizza seperti New York-style, Chicago deep-dish, dan Neapolitan muncul, menjadikannya makanan favorit di seluruh dunia."
+    },
+    {
+    "role": "user",
+    "content": "Bagaimana cara membuat pizza klasik?"
+    },
+    {
+    "role": "assistant",
+    "content": "Untuk membuat pizza klasik, siapkan adonan dari campuran tepung, air hangat, ragi, gula, garam, dan minyak zaitun, lalu biarkan mengembang. Bentuk adonan sesuai selera dan olesi dengan saus tomat, tambahkan keju mozzarella serta topping favorit seperti pepperoni atau jamur. Panggang dalam oven panas pada suhu 245°C selama 12-15 menit hingga kulit pizza berwarna keemasan dan keju meleleh. Diamkan sebentar, potong, dan nikmati!"
+    }
+]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa salah satu hidangan klasik yang tersedia di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu hidangan klasik yang tersedia di restoran kami adalah spaghetti, pasta panjang berbentuk silinder yang menjadi bagian penting dari kuliner Italia."
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan apa itu spaghetti?"
+    },
+    {
+      "role": "assistant",
+      "content": "Spaghetti adalah pasta berbentuk panjang, tipis, dan silinder yang sering disajikan dengan saus berbasis tomat, saus krim, atau minyak zaitun. Varian terkenal termasuk Spaghetti Bolognese dengan saus daging gurih dan Spaghetti Carbonara dengan campuran telur, keju, pancetta, dan lada hitam."
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi spaghetti di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi spaghetti di restoran kami adalah $14.99."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah spaghetti?"
+    },
+    {
+      "role": "assistant",
+      "content": "Spaghetti berasal dari Italia, tetapi konsep pasta sudah ada sejak zaman kuno di Tiongkok dan Timur Tengah. Ada legenda yang mengatakan Marco Polo membawa pasta ke Italia pada abad ke-13, tetapi bukti sejarah menunjukkan bahwa orang Italia sudah membuat pasta jauh sebelumnya. Pada abad ke-18, spaghetti menjadi makanan pokok di Napoli dan semakin populer setelah penemuan saus tomat pada akhir 1700-an. Imigran Italia kemudian membawa spaghetti ke Amerika, di mana hidangan ini menjadi bagian penting dari kuliner Italia-Amerika. Saat ini, spaghetti adalah salah satu makanan paling populer di dunia."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat spaghetti klasik dengan saus tomat?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat spaghetti klasik dengan saus tomat, rebus spaghetti dalam air garam hingga al dente, lalu tiriskan. Panaskan minyak zaitun, tumis bawang putih cincang hingga harum, kemudian tambahkan tomat hancur, garam, lada, oregano, dan cabai merah bubuk. Masak selama 10 menit, lalu tambahkan daun basil segar. Campurkan spaghetti dengan saus, aduk hingga merata, dan sajikan dengan taburan keju Parmesan. Selamat menikmati!"
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa salah satu menu lezat yang tersedia di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu menu lezat yang tersedia di restoran kami adalah ayam goreng, hidangan renyah dengan daging yang juicy di dalamnya."
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan apa itu ayam goreng?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ayam goreng adalah hidangan yang dibuat dengan melapisi potongan ayam dalam adonan berbumbu atau tepung, lalu menggorengnya hingga berwarna keemasan. Kulitnya renyah dan garing, sementara dagingnya tetap lembut dan juicy. Hidangan ini memiliki banyak variasi di seluruh dunia, seperti ayam goreng buttermilk khas Amerika Selatan, ayam goreng pedas khas Korea, dan karaage khas Jepang."
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi ayam goreng di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi ayam goreng di restoran kami adalah $4.99."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah ayam goreng?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ayam goreng memiliki akar sejarah dari masakan Skotlandia dan Afrika Barat. Versi awalnya dibuat tanpa bumbu atau direndam dalam rempah-rempah. Saat teknik memasak ini dibawa ke Amerika Selatan oleh imigran Skotlandia dan juru masak Afrika, ayam goreng berkembang menjadi hidangan renyah dan berbumbu seperti yang kita kenal sekarang. Pada abad ke-20, ayam goreng menjadi makanan pokok di Amerika Selatan dan semakin populer di seluruh dunia berkat rantai makanan cepat saji seperti KFC. Kini, berbagai budaya memiliki variasi ayam gorengnya sendiri, seperti ayam goreng pedas Nashville dan ayam goreng Korea yang super renyah dengan teknik penggorengan dua kali."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat ayam goreng klasik?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat ayam goreng klasik, marinasi ayam dalam buttermilk yang dibumbui dengan garam, lada hitam, dan paprika selama minimal 1 jam. Siapkan lapisan tepung dengan mencampurkan tepung serbaguna, garam, bubuk bawang putih, bubuk bawang bombay, lada hitam, paprika, dan bubuk cabai. Gulingkan ayam dalam tepung hingga terlapisi sempurna. Panaskan minyak hingga 175°C (350°F) dan goreng ayam selama 12-15 menit hingga renyah dan berwarna keemasan. Tiriskan minyak berlebih, lalu sajikan dengan kentang tumbuk, coleslaw, atau saus cocolan favorit Anda."
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa camilan yang renyah dan lezat di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu camilan renyah dan lezat di restoran kami adalah kentang goreng, irisan kentang yang digoreng hingga keemasan dengan tekstur renyah di luar dan lembut di dalam."
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan lebih lanjut tentang kentang goreng?"
+    },
+    {
+      "role": "assistant",
+      "content": "Kentang goreng adalah potongan kentang yang digoreng hingga keemasan, menghasilkan tekstur renyah di luar dan lembut di dalam. Bentuknya bervariasi, mulai dari tipis dan garing (shoestring fries), tebal dan empuk (steak fries), hingga melingkar seperti curly atau waffle fries. Kentang goreng biasanya disajikan dengan saus seperti saus tomat, mayones, saus keju, atau saus spesial lainnya, menjadikannya camilan atau pendamping makanan yang sempurna."
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi kentang goreng di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi kentang goreng di restoran kami adalah $3.99."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah kentang goreng?"
+    },
+    {
+      "role": "assistant",
+      "content": "Meskipun disebut 'French fries,' kentang goreng sebenarnya berasal dari Belgia. Pada akhir 1600-an, penduduk Belgia menggoreng irisan kentang ketika sungai membeku dan mereka tidak bisa menangkap ikan. Istilah 'French fries' mulai populer setelah tentara Amerika mencicipi hidangan ini di Belgia selama Perang Dunia I. Karena bahasa Prancis banyak digunakan di Belgia, mereka mengira kentang goreng berasal dari Prancis. Di Amerika Serikat, kentang goreng semakin populer berkat rantai makanan cepat saji seperti McDonald's, yang menyempurnakan resep kentang goreng tipis dan renyah. Kini, kentang goreng memiliki berbagai variasi di seluruh dunia, seperti cheese fries, poutine (kentang goreng dengan saus gravy dan keju), dan loaded fries dengan bacon serta sour cream."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat kentang goreng yang sempurna?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat kentang goreng yang sempurna, gunakan kentang russet, kupas dan potong menjadi irisan tipis. Rendam dalam air dingin selama minimal 30 menit untuk menghilangkan pati, lalu tiriskan dan keringkan. Lakukan dua kali penggorengan: pertama pada suhu 160°C (325°F) selama 3-4 menit hingga empuk, lalu angkat dan tiriskan. Naikkan suhu minyak ke 190°C (375°F) dan goreng kembali selama 2-3 menit hingga keemasan dan renyah. Tiriskan, taburi garam, dan sajikan dengan saus favorit Anda!"
+    }
+  ]
+},
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa pilihan makanan praktis yang lezat di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu pilihan makanan praktis dan lezat di restoran kami adalah sandwich, yang dibuat dengan berbagai isian di antara dua potong roti, cocok untuk segala kesempatan."
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan lebih lanjut tentang sandwich?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sandwich adalah makanan lezat dan serbaguna yang terdiri dari berbagai isian seperti daging, keju, sayuran, dan saus yang ditempatkan di antara dua potong roti. Bisa disajikan segar atau dipanggang, dengan berbagai variasi dari sandwich club klasik hingga submarine sandwich yang mengenyangkan serta croissant sandwich yang elegan. Dengan pilihan isian yang tak terbatas, sandwich adalah pilihan sempurna untuk setiap selera."
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi sandwich di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi sandwich di restoran kami adalah $5.99."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah sandwich?"
+    },
+    {
+      "role": "assistant",
+      "content": "Nama sandwich berasal dari John Montagu, Earl of Sandwich ke-4, seorang bangsawan Inggris abad ke-18. Menurut legenda, ia sangat menyukai berjudi sehingga meminta dagingnya disajikan di antara dua potong roti agar bisa makan tanpa harus meninggalkan meja permainan. Ide ini menyebar, dan sandwich lahir! Seiring waktu, sandwich menjadi populer di seluruh dunia, dengan berbagai versi terkenal seperti BLT (Bacon, Lettuce, Tomato), Grilled Cheese, Club Sandwich, Sub Sandwich, dan Banh Mi khas Vietnam."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat sandwich klasik?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat sandwich klasik, gunakan dua lembar roti (putih, gandum, atau sourdough). Jika ingin tekstur renyah, panggang roti terlebih dahulu. Olesi salah satu sisi setiap roti dengan mayones atau mustard, lalu susun selada, daging deli (kalkun, ham, atau ayam), keju (cheddar, Swiss, atau provolone), serta irisan tomat dan mentimun. Tutup dengan potongan roti kedua, potong menjadi dua, dan sajikan dengan keripik, kentang goreng, atau salad samping. Selamat menikmati! 🥪"
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa camilan renyah yang tersedia di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu camilan renyah yang tersedia di restoran kami adalah chicken nuggets. Potongan kecil ayam ini memiliki tekstur renyah di luar dan lembut di dalam, menjadikannya pilihan lezat untuk dinikmati kapan saja!"
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan lebih lanjut tentang chicken nuggets?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chicken nuggets adalah potongan kecil ayam yang dibungkus dengan lapisan tepung berbumbu dan digoreng atau dipanggang hingga keemasan. Hidangan ini disukai oleh anak-anak maupun orang dewasa dan sering disajikan dengan saus celup seperti saus tomat, honey mustard, saus BBQ, atau ranch. Dengan teksturnya yang renyah dan cita rasa yang gurih, chicken nuggets adalah camilan sempurna untuk segala kesempatan!"
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi chicken nuggets di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi chicken nuggets di restoran kami adalah $4.49."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah chicken nuggets?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chicken nuggets ditemukan pada tahun 1950-an oleh Robert C. Baker, seorang ilmuwan makanan di Universitas Cornell. Ia mengembangkan metode melapisi potongan ayam kecil dengan adonan renyah yang bisa dibekukan dan digoreng dengan mudah. Inovasi ini merevolusi industri makanan cepat saji dan kemudian diadopsi oleh restoran seperti McDonald's, yang memperkenalkan McNuggets mereka pada tahun 1983. Saat ini, chicken nuggets memiliki berbagai variasi, termasuk spicy nuggets, nuggets bebas gluten, dan nuggets berbahan nabati, menjadikannya favorit di seluruh dunia."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat chicken nuggets homemade?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat chicken nuggets homemade, potong 2 dada ayam menjadi bagian kecil. Siapkan tiga mangkuk: satu dengan campuran tepung, garam, lada, bubuk bawang putih, dan paprika; satu dengan telur kocok; dan satu lagi dengan tepung roti atau panko. Lapisi ayam dengan tepung, celupkan ke dalam telur, lalu gulingkan dalam tepung roti.\\n\\nMetode Menggoreng: Panaskan minyak hingga 175°C (350°F), goreng nuggets selama 4-5 menit hingga keemasan, lalu tiriskan.\\n\\nMetode Memanggang: Panaskan oven hingga 200°C (400°F), tata nuggets di atas loyang, semprot sedikit minyak, dan panggang selama 15-18 menit, balik sekali di tengah waktu pemanggangan.\\n\\nSajikan selagi hangat dengan saus favorit seperti honey mustard, BBQ, atau ranch! 🍗"
+    }
+    
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Apa hidangan penutup yang manis dan menyegarkan di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Salah satu hidangan penutup yang manis dan menyegarkan di restoran kami adalah ice cream! Dengan teksturnya yang lembut dan dingin, serta pilihan rasa yang beragam, ice cream adalah camilan sempurna untuk dinikmati kapan saja. 🍦"
+    },
+    {
+      "role": "user",
+      "content": "Bisakah Anda menjelaskan lebih lanjut tentang ice cream?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ice cream adalah hidangan penutup beku yang dibuat dari susu, krim, gula, dan berbagai perisa. Rasanya sangat beragam, mulai dari klasik seperti vanila, cokelat, dan stroberi hingga varian unik seperti cookies & cream, matcha, dan caramel asin. Ice cream dapat disajikan dalam cone, cup, atau sebagai sundae dengan aneka topping, menjadikannya camilan favorit untuk menyegarkan diri dan memuaskan keinginan akan sesuatu yang manis. 🍦"
+    },
+    {
+      "role": "user",
+      "content": "Berapa harga satu porsi ice cream di restoran ini?"
+    },
+    {
+      "role": "assistant",
+      "content": "Harga satu porsi ice cream di restoran kami adalah $4.49."
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana sejarah ice cream?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sejarah ice cream berawal dari Tiongkok kuno sekitar 200 SM, di mana masyarakat menikmati es serut yang dicampur dengan buah dan madu. Konsep ini kemudian menyebar ke Persia dan Italia, berkembang menjadi gelato. Pada abad ke-17, es krim menjadi hidangan mewah bagi bangsawan Eropa. \\nPada abad ke-18, es krim mulai populer di Amerika. Inovasi mesin es krim manual pada tahun 1843 membuat produksinya lebih mudah, sehingga muncul banyak kedai es krim. Saat ini, es krim menjadi favorit global dengan berbagai bentuk, seperti soft serve, scoop, milkshake, dan es krim gulung. 🍨"
+    },
+    {
+      "role": "user",
+      "content": "Bagaimana cara membuat ice cream homemade tanpa mesin?"
+    },
+    {
+      "role": "assistant",
+      "content": "Untuk membuat ice cream homemade tanpa mesin, siapkan 2 cangkir heavy cream, 1 cangkir susu kental manis, dan 1 sdt ekstrak vanila. \\n1️⃣ Kocok heavy cream dalam mangkuk besar hingga membentuk puncak kaku.  \\n2️⃣ Lipat perlahan susu kental manis dan ekstrak vanila hingga tercampur rata.  \\n3️⃣ Tambahkan topping favorit seperti Oreo, cokelat chip, atau buah segar.  \\n4️⃣ Tuang campuran ke dalam wadah dan bekukan selama minimal 6 jam.  \\n5️⃣ Sajikan dalam cone, cup, atau buat sundae dengan topping favorit seperti sirup cokelat dan sprinkle! 🍦😋"
+    }
+  ]
+},
+
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa penyedia yang memasok hamburger?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penyedia yang memasok hamburger adalah Speedy Bites dan Golden Crust Delights."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dari negara mana asal penyedia La Bella Pizza Co.?"
+      },
+      {
+        "role": "assistant",
+        "content": "La Bella Pizza Co. berasal dari Italia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana yang dipasok oleh French Fry Kingdom?"
+      },
+      {
+        "role": "assistant",
+        "content": "French Fry Kingdom memasok restoran dengan ID R001."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kisah di balik Crispy Chicken Haven?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crispy Chicken Haven berasal dari Louisiana dan terkenal dengan ayam goreng renyah yang dibumbui dengan campuran bumbu Cajun rahasia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa yang memasok es krim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penyedia es krim adalah Tokyo Express Eats dan Ice Cream Dreamland."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara menghubungi Big Bite Foods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Anda dapat menghubungi Big Bite Foods melalui nomor telepon +55 21-555-9910."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa spesialisasi Mama Sofia’s Spaghetti?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mama Sofia’s Spaghetti terkenal dengan saus spaghettinya yang kaya dan buatan sendiri."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran dengan ID R010 mendapatkan pasokan apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran dengan ID R010 mendapatkan pasokan ayam goreng dan es krim dari Tokyo Express Eats."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which fast food supplier is from the UK?"
+      },
+      {
+        "role": "assistant",
+        "content": "Golden Crust Delights is a fast food supplier from the UK."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which supplier exclusively provides french fries?"
+      },
+      {
+        "role": "assistant",
+        "content": "French Fry Kingdom is the supplier that exclusively provides french fries."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the story behind the founding of Speedy Bites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Speedy Bites was founded in Chicago in the 1980s as a small burger stand and grew thanks to its juicy hamburgers and crispy fries."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the phone number of the supplier La Bella Pizza Co.?"
+      },
+      {
+        "role": "assistant",
+        "content": "The phone number of La Bella Pizza Co. is +39 06-555-2314."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which supplier provides for the restaurant with ID R008?"
+      },
+      {
+        "role": "assistant",
+        "content": "The restaurant with ID R008 is supplied by Big Bite Foods."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What food does Tokyo Express Eats supply?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tokyo Express Eats supplies fried chicken and ice cream."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What makes Ice Cream Dreamland unique?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ice Cream Dreamland is known for its unique, locally sourced ice cream flavors, blending tropical fruits with creamy dairy."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which country is Crispy Chicken Haven from?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crispy Chicken Haven is from the United States."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which supplier provides for the restaurant with ID R006?"
+      },
+      {
+        "role": "assistant",
+        "content": "The restaurant with ID R006 is supplied by Sandwich World."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What food does Golden Crust Delights supply?"
+      },
+      {
+        "role": "assistant",
+        "content": "Golden Crust Delights supplies pizza and hamburgers."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Penyedia mana yang memasok sandwich?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penyedia yang memasok sandwich adalah Sandwich World."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa spesialisasi Big Bite Foods?"
+      },
+      {
+        "role": "assistant",
+        "content": "Big Bite Foods terkenal dengan ayam goreng renyah dan kentang goreng potong tangan yang dibumbui dengan cita rasa khas Latin."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran dengan ID R003 mendapatkan pasokan dari siapa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran dengan ID R003 mendapatkan pasokan dari La Bella Pizza Co."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana kisah berdirinya Mama Sofia’s Spaghetti?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mama Sofia’s Spaghetti adalah bisnis keluarga yang telah berjalan selama tiga generasi dan terkenal dengan saus spaghettinya yang kaya serta buatan sendiri."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran ID R005 dipasok oleh siapa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran dengan ID R005 dipasok oleh Speedy Bites."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang membuat Tokyo Express Eats unik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tokyo Express Eats menawarkan kombinasi ayam goreng renyah dengan rasa es krim inovatif yang terinspirasi dari makanan penutup Jepang."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Penyedia mana yang berasal dari Brasil?"
+      },
+      {
+        "role": "assistant",
+        "content": "Penyedia yang berasal dari Brasil adalah Big Bite Foods."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Makanan apa saja yang dipasok oleh Crispy Chicken Haven?"
+      },
+      {
+        "role": "assistant",
+        "content": "Crispy Chicken Haven memasok ayam goreng dan nugget ayam."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Nomor telepon French Fry Kingdom berapa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon French Fry Kingdom adalah +33 1-555-8832."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran dengan ID R007 mendapatkan pasokan dari siapa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran dengan ID R007 mendapatkan pasokan dari Ice Cream Dreamland."
+      }
+    ]
+  }
+],
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik restoran The Rustic Fork?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik restoran The Rustic Fork adalah Olivia Bennett."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi restoran Seaside Bites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran Seaside Bites berlokasi di Miami, FL."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana kisah pendirian restoran Golden Wok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran Golden Wok didirikan oleh Lily Chen yang terinspirasi oleh resep neneknya. Ia ingin menghadirkan cita rasa autentik dengan sentuhan kontemporer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa pendapatan bulanan Smoke & Barrel BBQ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendapatan bulanan Smoke & Barrel BBQ adalah $22.000 setelah dikurangi semua biaya dan pengeluaran, kecuali gaji karyawan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa konsep makanan di Bella Notte Trattoria?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bella Notte Trattoria menyajikan hidangan khas Italia dengan pasta buatan tangan dan pizza panggang kayu, berdasarkan resep keluarga dari Sisilia."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik Urban Harvest Café?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik Urban Harvest Café adalah Samantha Green."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keunikan Steakhouse 88 dibandingkan restoran lain?"
+      },
+      {
+        "role": "assistant",
+        "content": "Steakhouse 88 terkenal dengan potongan prime beef yang telah berumur serta pasangan wiski khasnya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa spesialisasi The Cozy Crêperie?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cozy Crêperie mengkhususkan diri dalam crêpes autentik dan hidangan penutup buatan tangan khas Prancis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana sejarah berdirinya Spice Route Kitchen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spice Route Kitchen didirikan oleh Rajesh Patel, seorang koki rumahan yang ingin membagikan cita rasa khas India dengan presentasi modern."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa pendapatan bulanan Blue Pine Bistro?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendapatan bulanan Blue Pine Bistro adalah $32.000 setelah dikurangi biaya dan pengeluaran, kecuali gaji karyawan."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik restoran Smoke & Barrel BBQ?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik restoran Smoke & Barrel BBQ adalah Jake Henderson."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa konsep makanan di Urban Harvest Café?"
+      },
+      {
+        "role": "assistant",
+        "content": "Urban Harvest Café menyajikan hidangan organik dan berbasis nabati yang berfokus pada kesehatan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi Steakhouse 88?"
+      },
+      {
+        "role": "assistant",
+        "content": "Steakhouse 88 berlokasi di Dallas, TX."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana kisah pendirian restoran The Cozy Crêperie?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Cozy Crêperie didirikan oleh Amélie Dubois, seorang pastry chef asal Paris, yang ingin menghadirkan cita rasa Prancis ke Boston melalui crêpes autentik dan hidangan penutup buatan tangan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa pendapatan bulanan restoran Seaside Bites?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendapatan bulanan restoran Seaside Bites adalah $15.000 setelah dikurangi semua biaya dan pengeluaran, kecuali gaji karyawan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa spesialisasi restoran Golden Wok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Golden Wok mengkhususkan diri dalam masakan Cina autentik dengan sentuhan kontemporer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang membuat Smoke & Barrel BBQ unik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Smoke & Barrel BBQ menggunakan bumbu rahasia keluarga yang diwariskan selama beberapa generasi, menciptakan cita rasa khas dalam hidangan BBQ mereka."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa visi dari pemilik Bella Notte Trattoria?"
+      },
+      {
+        "role": "assistant",
+        "content": "Antonio DeLuca ingin membawa resep tradisional Italia dari neneknya di Sisilia ke Chicago dengan menyajikan pasta buatan tangan dan pizza panggang kayu."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik restoran Blue Pine Bistro?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik restoran Blue Pine Bistro adalah Emily Dawson."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana sejarah pendirian restoran Steakhouse 88?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran Steakhouse 88 didirikan oleh Robert King, putra seorang peternak sapi, yang ingin menghadirkan pengalaman bersantap dengan daging sapi berkualitas tinggi."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa konsep utama dari restoran The Rustic Fork?"
+      },
+      {
+        "role": "assistant",
+        "content": "The Rustic Fork mengusung konsep bistro yang nyaman dengan menekankan penggunaan bahan-bahan segar dan lokal dalam setiap hidangannya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi restoran Golden Wok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Golden Wok berlokasi di San Francisco, CA."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik restoran Spice Route Kitchen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik restoran Spice Route Kitchen adalah Rajesh Patel."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana kisah pendirian restoran Urban Harvest Café?"
+      },
+      {
+        "role": "assistant",
+        "content": "Urban Harvest Café didirikan oleh Samantha Green, seorang mantan ahli gizi, yang ingin menciptakan kafe berfokus pada kesehatan dengan hidangan organik dan berbasis nabati."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa yang membuat restoran Seaside Bites istimewa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Seaside Bites menyajikan hidangan laut segar dengan konsep ocean-to-table, terinspirasi oleh pengalaman masa kecil Marco Ramirez memancing bersama kakeknya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa pendapatan bulanan restoran The Cozy Crêperie?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendapatan bulanan The Cozy Crêperie adalah $31.000 setelah dikurangi semua biaya dan pengeluaran, kecuali gaji karyawan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa keunikan restoran Blue Pine Bistro?"
+      },
+      {
+        "role": "assistant",
+        "content": "Blue Pine Bistro mengusung tema pegunungan dan menyajikan hidangan yang menghangatkan hati dengan bahan-bahan lokal."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik restoran Bella Notte Trattoria?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pemilik restoran Bella Notte Trattoria adalah Antonio DeLuca."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa jenis makanan yang ditawarkan oleh Spice Route Kitchen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Spice Route Kitchen menyajikan masakan khas India dengan cita rasa berani dan aromatik dalam presentasi modern."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Di mana lokasi restoran Bella Notte Trattoria?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bella Notte Trattoria berlokasi di Chicago, IL."
+      }
+    ]
+  }
+],
+
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa kepala koki di restoran R001?"
+    },
+    {
+      "role": "assistant",
+      "content": "Kepala koki di restoran R001 adalah Jake Martinez."
+    },
+    {
+      "role": "user",
+      "content": "Apa posisi Olivia Chen di restoran?"
+    },
+    {
+      "role": "assistant",
+      "content": "Olivia Chen bekerja sebagai Pastry Chef di restoran R006."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai bartender?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ethan Brown bekerja sebagai bartender di restoran R005."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang waiter di restoran?"
+    },
+    {
+      "role": "assistant",
+      "content": "Liam Patel, seorang waiter di restoran R003, memiliki gaji sebesar $2,500 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian ramah dan energik?"
+    },
+    {
+      "role": "assistant",
+      "content": "Liam Patel, yang bekerja sebagai waiter di restoran R003, memiliki kepribadian ramah dan energik."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima seorang waitress?"
+    },
+    {
+      "role": "assistant",
+      "content": "Isabella Lopez, yang bekerja sebagai waitress di restoran R008, menerima tip sebesar 14%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian hangat dan menyambut?"
+    },
+    {
+      "role": "assistant",
+      "content": "Emma Davis, yang bekerja sebagai hostess di restoran R010, memiliki kepribadian yang hangat dan menyambut."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai manajer restoran?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ava Johnson bekerja sebagai manajer restoran di restoran R004."
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai pencuci piring di restoran?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mason Carter bekerja sebagai pencuci piring di restoran R009."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai resepsionis?"
+    },
+    {
+      "role": "assistant",
+      "content": "Natalie Foster bekerja sebagai resepsionis di restoran R010."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang sous chef?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sophia Kim, yang bekerja sebagai sous chef di restoran R002, memiliki gaji sebesar $4,500 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian kreatif dan penuh semangat?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sophia Kim, yang bekerja sebagai sous chef di restoran R002, memiliki kepribadian kreatif dan penuh semangat."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian pekerja keras dan suka bekerja dalam tim?"
+    },
+    {
+      "role": "assistant",
+      "content": "Noah Wilson, yang bekerja sebagai line cook di restoran R007, memiliki kepribadian pekerja keras dan suka bekerja dalam tim."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang bartender?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ethan Brown, yang bekerja sebagai bartender di restoran R005, menerima tip sebesar 12%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki gaji tertinggi di antara semua karyawan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ava Johnson, yang bekerja sebagai manajer restoran di R004, memiliki gaji tertinggi sebesar $6,000 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian karismatik dan cerdas?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ethan Brown, yang bekerja sebagai bartender di restoran R005, memiliki kepribadian karismatik dan cerdas."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang pencuci piring?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mason Carter, yang bekerja sebagai pencuci piring di restoran R009, menerima tip sebesar 5%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki pastry?"
+    },
+    {
+      "role": "assistant",
+      "content": "Olivia Chen bekerja sebagai koki pastry di restoran R006."
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai kepala bartender?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ryan Mitchell bekerja sebagai kepala bartender di restoran R001."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki sushi?"
+    },
+    {
+      "role": "assistant",
+      "content": "Caleb Ramirez bekerja sebagai koki sushi di restoran R003."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai pengantar makanan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Lucas Hall bekerja sebagai pengantar makanan di restoran R007."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang bartender?"
+    },
+    {
+      "role": "assistant",
+      "content": "Grace Hernandez, yang bekerja sebagai bartender di restoran R002, menerima tip sebesar 12%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian sosial dan cepat tanggap?"
+    },
+    {
+      "role": "assistant",
+      "content": "Grace Hernandez, yang bekerja sebagai bartender di restoran R002, memiliki kepribadian sosial dan cepat tanggap."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai supervisor shift?"
+    },
+    {
+      "role": "assistant",
+      "content": "Victoria Adams bekerja sebagai supervisor shift di restoran R010."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang juru masak panggangan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Carter Evans, yang bekerja sebagai juru masak panggangan di restoran R005, memiliki gaji sebesar $3,300 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian artistik dan sabar?"
+    },
+    {
+      "role": "assistant",
+      "content": "Zoey Mitchell, yang bekerja sebagai koki pencuci mulut di restoran R008, memiliki kepribadian artistik dan sabar."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang pelayan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Lily Parker, yang bekerja sebagai pelayan di restoran R006, menerima tip sebesar 14%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki salad?"
+    },
+    {
+      "role": "assistant",
+      "content": "Bella Simmons bekerja sebagai koki salad di restoran R004."
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai food runner?"
+    },
+    {
+      "role": "assistant",
+      "content": "Noah Parker bekerja sebagai food runner di restoran R007."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koordinator acara?"
+    },
+    {
+      "role": "assistant",
+      "content": "Emma Richardson bekerja sebagai koordinator acara di restoran R010."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang waitress?"
+    },
+    {
+      "role": "assistant",
+      "content": "Zoe Turner, yang bekerja sebagai waitress di restoran R006, menerima tip sebesar 14%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki sushi?"
+    },
+    {
+      "role": "assistant",
+      "content": "Logan Foster bekerja sebagai koki sushi di restoran R001."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai bartender kepala?"
+    },
+    {
+      "role": "assistant",
+      "content": "William Torres bekerja sebagai bartender kepala di restoran R003."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang asisten meja depan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Sophia Bennett, yang bekerja sebagai asisten meja depan di restoran R004, memiliki gaji sebesar $3,000 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian dapat diandalkan dan pekerja keras?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jacob Brooks, yang bekerja sebagai petugas kebersihan di restoran R009, memiliki kepribadian dapat diandalkan dan pekerja keras."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai kasir?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chloe Martinez bekerja sebagai kasir di restoran R006."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang waitress koktail?"
+    },
+    {
+      "role": "assistant",
+      "content": "Emily Hughes, yang bekerja sebagai waitress koktail di restoran R008, menerima tip sebesar 13%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai pekerja pemeliharaan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jackson Rivera bekerja sebagai pekerja pemeliharaan di restoran R007."
+    }
+  ]
+},
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki eksekutif?"
+    },
+    {
+      "role": "assistant",
+      "content": "Adam Reynolds bekerja sebagai koki eksekutif di restoran R001."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai perencana acara?"
+    },
+    {
+      "role": "assistant",
+      "content": "Zoe Carter bekerja sebagai perencana acara di restoran R010."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang waitress koktail?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ava Simmons, yang bekerja sebagai waitress koktail di restoran R006, menerima tip sebesar 13%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai petugas kebersihan di restoran R009?"
+    },
+    {
+      "role": "assistant",
+      "content": "Zachary Lewis bekerja sebagai petugas kebersihan di restoran R009."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai barista?"
+    },
+    {
+      "role": "assistant",
+      "content": "Amelia Watson bekerja sebagai barista di restoran R004."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang asisten koki pastry?"
+    },
+    {
+      "role": "assistant",
+      "content": "Logan Scott, yang bekerja sebagai asisten koki pastry di restoran R005, memiliki gaji sebesar $3,100 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian perfeksionis dan disiplin?"
+    },
+    {
+      "role": "assistant",
+      "content": "Dylan Parker, yang bekerja sebagai sous chef di restoran R003, memiliki kepribadian perfeksionis dan disiplin."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang pelayan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Olivia Hernandez, yang bekerja sebagai pelayan di restoran R004, menerima tip sebesar 14%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koki panggangan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Chloe Wright bekerja sebagai koki panggangan di restoran R006."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai koordinator katering?"
+    },
+    {
+      "role": "assistant",
+      "content": "Emily Morgan bekerja sebagai koordinator katering di restoran R010."
+    }
+  ]
+},
+
+
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai bartender di restoran R008?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ava Mitchell bekerja sebagai bartender di restoran R008."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian karismatik dan cerdas?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ava Mitchell, bartender di restoran R008, memiliki kepribadian karismatik dan cerdas."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bertanggung jawab sebagai manajer dapur?"
+    },
+    {
+      "role": "assistant",
+      "content": "Daniel Foster bekerja sebagai manajer dapur di restoran R001."
+    },
+    {
+      "role": "user",
+      "content": "Berapa gaji seorang pengantar makanan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Jackson Adams, yang bekerja sebagai pengantar makanan di restoran R009, memiliki gaji sebesar $2,600 per bulan."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian profesional dan problem-solver?"
+    },
+    {
+      "role": "assistant",
+      "content": "Natalie Cooper, yang bekerja sebagai manajer ruang makan di restoran R010, memiliki kepribadian profesional dan problem-solver."
+    },
+    {
+      "role": "user",
+      "content": "Berapa persen tip yang diterima oleh seorang pelayan?"
+    },
+    {
+      "role": "assistant",
+      "content": "Isabella Scott, yang bekerja sebagai pelayan di restoran R004, menerima tip sebesar 14%."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai asisten bartender (barback)?"
+    },
+    {
+      "role": "assistant",
+      "content": "Lily Ramirez bekerja sebagai barback di restoran R006."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai juru masak persiapan (prep cook)?"
+    },
+    {
+      "role": "assistant",
+      "content": "Caleb Hughes bekerja sebagai prep cook di restoran R007."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang bekerja sebagai hostess di restoran R002?"
+    },
+    {
+      "role": "assistant",
+      "content": "Mia Thompson bekerja sebagai hostess di restoran R002."
+    },
+    {
+      "role": "user",
+      "content": "Siapa yang memiliki kepribadian teliti dan artistik?"
+    },
+    {
+      "role": "assistant",
+      "content": "Ethan Rivera, yang bekerja sebagai koki sushi di restoran R003, memiliki kepribadian teliti dan artistik."
+    }
+  ]
+},
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How many employees does restaurant R001 have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restaurant R001 has 10 employees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which restaurant has the fewest employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restaurant R008 has the fewest employees, with around 8 employees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "How many employees does restaurant R008 have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restaurant R008 has 8 employees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Do all restaurants have the same number of employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "No, some restaurants have fewer employees than others, such as R008 and R009."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which restaurants have 10 employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restaurants R001, R002, R003, R004, R005, R006, and R010 have 10 employees."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Which restaurant has more employees between R007 and R009?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restaurant R007 has more employees than R009."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the main information that can be obtained from this plot?"
+      },
+      {
+        "role": "assistant",
+        "content": "This plot shows the number of employees in various restaurants. Most restaurants have around 10 employees, but some have fewer."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Why do some restaurants have different numbers of employees?"
+      },
+      {
+        "role": "assistant",
+        "content": "The difference in the number of employees may be due to the restaurant size, the number of customers, or each restaurant's operational needs."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana yang memiliki total gaji tertinggi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R001 memiliki total gaji tertinggi dibandingkan restoran lainnya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa total gaji yang harus dibayarkan oleh restoran R004 setiap bulan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R004 membayar lebih dari $30.000 setiap bulan untuk gaji karyawannya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana yang membayar gaji paling sedikit kepada karyawannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R009 memiliki total gaji terendah dibandingkan restoran lainnya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada hubungan antara jumlah karyawan dan total gaji yang dibayarkan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, restoran dengan jumlah karyawan lebih banyak umumnya membayar gaji lebih tinggi, tetapi ada kemungkinan perbedaan gaji per karyawan di tiap restoran."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana saja yang memiliki total pengeluaran gaji sekitar $30.000 per bulan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R002, R005, dan R006 memiliki total pengeluaran gaji sekitar $30.000 per bulan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mengapa ada perbedaan pengeluaran gaji di antara restoran-restoran tersebut?"
+      },
+      {
+        "role": "assistant",
+        "content": "Perbedaan ini bisa disebabkan oleh jumlah karyawan, tingkat gaji per karyawan, serta kebijakan gaji di setiap restoran."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana yang memiliki saldo tersisa paling besar setelah membayar gaji karyawan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R009 memiliki saldo tersisa paling besar setelah membayar gaji karyawannya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana yang mengalami kerugian terbesar setelah membayar gaji karyawan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R001 mengalami kerugian terbesar setelah membayar gaji karyawannya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah semua restoran memiliki saldo positif setelah membayar gaji?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tidak, beberapa restoran seperti R001, R002, R003, R004, dan R006 mengalami saldo negatif setelah membayar gaji karyawan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mengapa beberapa restoran memiliki saldo negatif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Saldo negatif dapat terjadi jika pengeluaran untuk gaji karyawan lebih besar daripada pendapatan restoran."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Restoran mana saja yang masih memiliki keuntungan setelah membayar gaji?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran R005, R007, R008, R009, dan R010 masih memiliki keuntungan setelah membayar gaji karyawannya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bagaimana cara restoran yang mengalami kerugian bisa meningkatkan keuntungannya?"
+      },
+      {
+        "role": "assistant",
+        "content": "Restoran dapat meningkatkan keuntungan dengan menaikkan harga menu, menarik lebih banyak pelanggan, atau mengurangi biaya operasional termasuk pengeluaran gaji."
+      }
+    ]
+  }
+],
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa ID pesanan untuk makanan yang dipesan oleh pelanggan C022?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pelanggan C022 memiliki pesanan dengan ID 1 dan 3."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa karyawan yang melayani pesanan dengan ID 4?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 4 dilayani oleh karyawan dengan ID E067."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa jumlah makanan yang dipesan dalam pesanan ID 7?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 7 memesan 4 makanan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Pesanan dengan ID 6 memiliki status apa?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 6 memiliki status 'Cancelled'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kondisi hidangan yang diminta untuk pesanan ID 2?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 2 diminta dengan kondisi 'Rare Cooking'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 5 dibuat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 5 dibuat pada 15 Februari 2025 pukul 12:09:14 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 9 selesai diproses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 9 selesai diproses pada 4 Maret 2025 pukul 01:32:35 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapakah tip yang diberikan untuk pesanan ID 10?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tip yang diberikan untuk pesanan ID 10 adalah 0.78."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa status pesanan dengan ID 18?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 18 memiliki status 'Cancelled'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa karyawan yang melayani pesanan ID 21?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 21 dilayani oleh karyawan dengan ID E008."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa tip yang diberikan untuk pesanan ID 26?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tip yang diberikan untuk pesanan ID 26 adalah 19.36."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 23 dibuat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 23 dibuat pada 8 Februari 2025 pukul 08:40:13 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa jumlah makanan yang dipesan dalam pesanan ID 28?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 28 memesan 5 makanan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kondisi hidangan untuk pesanan ID 30?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 30 diminta dengan kondisi 'Well Done'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pelanggan yang memesan makanan dengan ID makanan F006?"
+      },
+      {
+        "role": "assistant",
+        "content": "Makanan dengan ID F006 dipesan oleh pelanggan C019 dan C013."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 32 selesai diproses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 32 selesai diproses pada 28 Februari 2025 pukul 01:47:51 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa jumlah makanan yang dipesan dalam pesanan ID 34?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 34 memesan 2 makanan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa status pesanan dengan ID 25?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 25 memiliki status 'Cancelled'."
+      }
+    ]
+  }
+],
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa status pesanan dengan ID 41?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 41 memiliki status 'Cooking'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pelanggan yang memesan makanan dengan ID makanan F008?"
+      },
+      {
+        "role": "assistant",
+        "content": "Makanan dengan ID F008 dipesan oleh pelanggan C048 dan C008."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa tip yang diberikan untuk pesanan ID 45?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tip yang diberikan untuk pesanan ID 45 adalah 16.67."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 50 dibuat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 50 dibuat pada 10 Februari 2025 pukul 18:09:09 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa kondisi hidangan untuk pesanan ID 54?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 54 diminta dengan kondisi 'Well Done'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa jumlah makanan yang dipesan dalam pesanan ID 57?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 57 memesan 6 makanan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kapan pesanan ID 59 selesai diproses?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 59 selesai diproses pada 4 Februari 2025 pukul 05:51:24 UTC."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apa status pesanan dengan ID 61?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 61 memiliki status 'Cancelled'."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa karyawan yang melayani pesanan ID 48?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pesanan dengan ID 48 dilayani oleh karyawan dengan ID E007."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Makanan apa yang dipesan oleh pelanggan C046?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pelanggan C046 memesan makanan dengan ID F001 dan F003."
+      }
+    ]
+  }
+],
+
+
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa nama pelanggan dengan ID C003?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nama pelanggan dengan ID C003 adalah Kevin Clark."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa nomor telepon Abigail Stewart?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon Abigail Stewart adalah 15676573674."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada pelanggan yang bernama Kevin Clark?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, terdapat dua pelanggan dengan nama Kevin Clark, yaitu dengan ID C003 dan C008."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik nomor telepon 12487718445?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 12487718445 dimiliki oleh Brian Walker."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa ID pelanggan yang bernama Hannah Richardson?"
+      },
+      {
+        "role": "assistant",
+        "content": "ID pelanggan yang bernama Hannah Richardson adalah C006."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa nama pelanggan dengan ID C014?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nama pelanggan dengan ID C014 adalah Harper Campbell."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa nomor telepon William Carter?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon William Carter adalah 13343485049."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada pelanggan yang bernama Sophia Lewis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, terdapat dua pelanggan dengan nama Sophia Lewis, yaitu dengan ID C012 dan C020."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik nomor telepon 19510889755?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 19510889755 dimiliki oleh Jacob Bell."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa ID pelanggan yang bernama Sarah Johnson?"
+      },
+      {
+        "role": "assistant",
+        "content": "Terdapat dua pelanggan dengan nama Sarah Johnson, yaitu dengan ID C013 dan C016."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada pelanggan yang memiliki nama Jessica Martinez?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, terdapat dua pelanggan bernama Jessica Martinez, yaitu dengan ID C010 dan C015."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pelanggan dengan nomor telepon 16997800093?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 16997800093 dimiliki oleh Laura Harris."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa nomor telepon Emily Davis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon Emily Davis adalah 18659851568."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa ID pelanggan dengan nomor telepon 16869460810?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 16869460810 dimiliki oleh pelanggan dengan ID C013, yaitu Sarah Johnson."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik nomor telepon 12399985731?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 12399985731 dimiliki oleh Sophia Lewis."
+      }
+    ]
+  }
+],
+
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa nama pelanggan dengan ID C031?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nama pelanggan dengan ID C031 adalah Ava Baker."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa nomor telepon Logan Cooper?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon Logan Cooper adalah 13057270214."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada pelanggan yang bernama Jacob Bell?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, terdapat dua pelanggan dengan nama Jacob Bell, yaitu dengan ID C018 dan C036."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik nomor telepon 12250402875?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 12250402875 dimiliki oleh Charlotte Perez."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa ID pelanggan yang bernama Victoria Cook?"
+      },
+      {
+        "role": "assistant",
+        "content": "ID pelanggan yang bernama Victoria Cook adalah C032."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Apakah ada pelanggan yang memiliki nama John Doe?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ya, terdapat pelanggan bernama John Doe dengan ID C034."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pelanggan dengan nomor telepon 16988962710?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 16988962710 dimiliki oleh Jessica Martinez."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa nomor telepon Benjamin Evans?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon Benjamin Evans adalah 12868562883."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Siapa pemilik nomor telepon 13642108825?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 13642108825 dimiliki oleh Grace Sanchez."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Berapa ID pelanggan dengan nomor telepon 14555299795?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nomor telepon 14555299795 dimiliki oleh pelanggan dengan ID C041."
+      }
+    ]
+  }
+]
+]
+
+
