@@ -13,7 +13,7 @@ This repository contains the code for a technical interview I participated in.
 - Generate a 50-page dataset in Bahasa Indonesia with random topics in PDF format.
 - Generate an SQL database.
 
-The dataset is stored in **Part_II**.
+The dataset is stored in **Part_I**.
 
 ---
 
